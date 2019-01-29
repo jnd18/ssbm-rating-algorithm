@@ -1,0 +1,62 @@
+Rank  Player            Score  
+   1  Hungrybox          2822  
+   2  Armada             2583  
+   3  Leffen             2483  
+   4  Plup               2476  
+   5  Mango              2232  
+   6  Mew2King           2191  
+   7  Zain               2063  
+   8  Wizzrobe           2052  
+   9  SFAT               1877  
+  10  Axe                1789  
+  11  aMSa               1763  
+  12  S2J                1757  
+  13  Crush              1665  
+  14  Westballz          1636  
+  15  PewPewU            1561  
+  16  ARMY               1539  
+  17  KJH                1538  
+  18  AbsentPage         1512  
+  19  lloD               1510  
+  20  Lucky              1501  
+  21  Trif               1463  
+  22  Swedish Delight    1439  
+  23  n0ne               1436  
+  24  Duck               1429  
+  25  Shroomed           1372  
+  26  Colbol             1330  
+  27  La Luna            1285  
+  28  ChuDat             1255  
+  29  HugS               1233  
+  30  iBDW               1229  
+  31  Junebug            1211  
+  32  Rishi              1206  
+  33  Professor Pro      1154  
+  34  Bananas            1151  
+  35  Ice                1143  
+  36  Kalamazhu          1098  
+  37  MikeHaze           1092  
+  38  Hax                1087  
+  39  Santiago           1084  
+  40  Captain Smuckers   1064  
+  41  Gahtzu             1061  
+  42  Captain Faceroll   1058  
+  43  Ryan Ford          1046  
+  44  Slox                959  
+  45  Moky                959  
+  46  Ginger              953  
+  47  OverTriforce        932  
+  48  Michael             865  
+  49  dizzkidboogie       852  
+  50  2saint              828  
+  51  Bladewise           782  
+  52  Syrox               717  
+  53  Medz                708  
+  54  Laudandus           611  
+  55  MacD                513  
+  56  Nintendude          492  
+  57  Amsah               492  
+  58  KirbyKaze           320  
+  59  Prince Abu          207  
+  60  Android              55  
+  61  Kage                  0  
